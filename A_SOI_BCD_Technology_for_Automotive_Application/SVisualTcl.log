@@ -1,0 +1,29 @@
+###########################################
+# Sentaurus Visual O-2018.06-SP2.
+# Tcl log file.
+#------------------------------------------
+# Date: Jun 23, 2020. 12:48:48.
+# Version: 28.0.1346 (1.1346)
+# Mode: Interactive (GUI).
+# Mesa: enabled.
+# Hostname: hogthrob.ewa.e-technik.tu-dortmund.de.
+# Machine: Linux, x86_64, x86_64.
+# Kernel: 3.10.0-1127.8.2.el7.x86_64.
+###########################################
+
+load_file /home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/IdVds_n7_des.plt
+create_plot -1d
+select_plots {Plot_1}
+#-> Plot_1
+#-> Plot_1
+#-> IdVds_n7_des
+create_curve -plot Plot_1 -dataset {IdVds_n7_des} -axisX {drain InnerVoltage} -axisY {drain TotalCurrent}
+#-> Curve_1
+load_file /home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/n1_fps.tdr
+create_plot -dataset n1_fps
+select_plots {Plot_n1_fps}
+#-> Plot_n1_fps
+#-> Plot_n1_fps
+#-> n1_fps
+exit 0
+ 

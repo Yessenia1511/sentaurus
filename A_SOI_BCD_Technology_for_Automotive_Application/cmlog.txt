@@ -1,0 +1,5 @@
+DATE: 06/23/20 - 06/23/20 cmlog.txt
+
+This localhost (server) information:
+	Name:    hogthrob.ewa.e-technik.tu-dortmund.de
+	Address: 129.217.185.16

@@ -1,0 +1,90 @@
+
+****************************************************************************
+***                       Sentaurus Workbench gsub                       ***
+***                        Version O-2018.06-SP2                         ***
+***                       (1.1346, x86_64, Linux)                        ***
+***                                                                      ***
+***                Copyright (c) 1994-2018 Synopsys, Inc.                ***
+***                                                                      ***
+***  This software and the associated documentation are confidential     ***
+***  and proprietary to Synopsys, Inc.  Your use or disclosure of this   ***
+***  software is subject to the terms and conditions of a written        ***
+***  license agreement between you, or your company, and Synopsys, Inc.  ***
+****************************************************************************
+
+gsub is running on host 'hogthrob.ewa.e-technik.tu-dortmund.de' by user 'ywellerdick'
+Binary '/opt/synopsys/sentaurus/O_2018.06-SP2/tcad/current/linux64/bin/../lib/gsub0'
+Command line options '-verbose -swb_pid 230318 -q local:default -e 1 /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application'
+Current directory '/home/ywellerdick'
+Some relevant environment variables:
+	STROOT=/opt/synopsys/sentaurus/O_2018.06-SP2
+	STRELEASE=current
+	STROOT_LIB=/opt/synopsys/sentaurus/O_2018.06-SP2/tcad/current/lib
+	STDB=/home/ywellerdick/Desktop/TCAD
+	DATEX=/opt/synopsys/sentaurus/O_2018.06-SP2/tcad/current/lib/datexcodes.txt
+	DISPLAY=:53.0
+
+Starting swblm daemon...OK
+Loading global tool database '/opt/synopsys/sentaurus/O_2018.06-SP2/tcad/current/lib/glib2/tooldb.tcl'
+Project '/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application'
+17:33:13 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+Loading global queue configuration file '/opt/synopsys/sentaurus/O_2018.06-SP2/queues/gqueues.dat'...ok
+Loading project tree '/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/gtree.dat'
+>>>>> Preprocessing the project to run in normal mode
+Loading jobs and dependence graph '"/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/gexec.cmd"'
+INITIALIZING PREPROCESSOR:
+Loading project tree '/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/gtree.dat'
+Loading project variables '/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/gvars.dat'
+--Get files to preprocess...
+--Create file handlers...
+--Read the toolflow...
+--Analyze tool-file dependencies...
+--Read all nodes to preprocess...
+--Group nodes into experiments...
+--Get all variables...
+--Get all parameters...
+PREPROCESSOR SUCCESSFULLY INITIALIZED.
+PREPROCESSING STEP 1:
+Reading file /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/sprocess_fps.cmd
+PREPROCESSING STEP 2:
+Preprocessing file /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/sprocess_fps.cmd fornode 1
++++Node successfully preprocessed+++
+Writing 'gexec.cmd'
+saving variables
+Loading jobs and dependence graph '"/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/gexec.cmd"'
+>>>>>>>>>> job '1' status changed from 'done' to 'queued'
+-----------------------------------------------------------------
+queue "local:default" - 1
+-----------------------------------------------------------------
+>>>>> cleaning the index file from previous simulations 
+                       /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/.gindex
+>>>>>>>>>> Initializing back-end schedulers...
+>>>>>>>> Loaded Schedulers are ... local
+local% initialize 'local' scheduler data
+>>>>> List of Active Schedulers : local
+<<<<<<<<<<
+>>>>>>>>>> job '1' status changed from 'queued' to 'ready'
+INITIALIZING PREPROCESSOR:
+Loading project tree '/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/gtree.dat'
+Loading jobs and dependence graph '"/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/gexec.cmd"'
+Loading project variables '/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/gvars.dat'
+--Get files to preprocess...
+--Create file handlers...
+--Read the toolflow...
+--Analyze tool-file dependencies...
+--Read all nodes to preprocess...
+--Group nodes into experiments...
+--Get all variables...
+--Get all parameters...
+PREPROCESSOR SUCCESSFULLY INITIALIZED.
+PREPROCESSING STEP 1:
+Reading file /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/sprocess_fps.cmd
+PREPROCESSING STEP 2:
+Preprocessing file /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/sprocess_fps.cmd fornode 1
++++Preprocessing results written to /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/pp1_fps.cmd
+>>>>>>>>>> os_rm /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/n1_fps.job
+local% submit job 1 for local execution
+>>>>>>>>>> job '1' status changed from 'ready' to 'pending'
+local% exec "/opt/synopsys/sentaurus/O_2018.06-SP2/bin/gjob -verbose -nice 19 --threads 8  -job 1 -swb_pid 230318 -gsub_pid 174885 -gsub_host hogthrob.ewa.e-technik.tu-dortmund.de -gsub_port 39205  "/home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application""
+>>>>>>>>>> job '1' status changed from 'pending' to 'running'
+17:33:13 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"

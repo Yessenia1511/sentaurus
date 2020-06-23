@@ -1,0 +1,21 @@
+###########################################
+# Sentaurus Visual O-2018.06-SP2.
+# Tcl log file.
+#------------------------------------------
+# Date: Apr 03, 2020. 14:00:18.
+# Version: 28.0.1346 (1.1346)
+# Mode: Interactive (GUI).
+# Mesa: enabled.
+# Hostname: hogthrob.ewa.e-technik.tu-dortmund.de.
+# Machine: Linux, x86_64, x86_64.
+# Kernel: 3.10.0-1062.12.1.el7.x86_64.
+###########################################
+
+load_file /home/ywellerdick/Desktop/TCAD/A_SOI_BCD_Technology_for_Automotive_Application/n1_1_BOX_fps.tdr
+create_plot -dataset n1_1_BOX_fps
+select_plots {Plot_n1_1_BOX_fps}
+#-> Plot_n1_1_BOX_fps
+#-> Plot_n1_1_BOX_fps
+#-> n1_1_BOX_fps
+exit 0
+ 

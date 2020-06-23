@@ -1,0 +1,30 @@
+16:42:19 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+16:42:19 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:42:29 Mar 31 2020 --- job 1 <sprocess> exited abnormally: exit()
+16:42:31 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> failed
+16:44:06 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+16:44:07 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:44:16 Mar 31 2020 +++ job 1 <sprocess> done: exit(0)
+16:44:19 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> done (13 sec)
+16:50:43 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+16:50:43 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:50:56 Mar 31 2020 --- job 1 <sprocess> exited abnormally: exit()
+16:50:58 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> failed
+16:52:49 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+16:52:49 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:52:58 Mar 31 2020 +++ job 1 <sprocess> done: exit(0)
+16:53:00 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> done (11 sec)
+17:07:19 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+17:07:19 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+17:08:50 Mar 31 2020 +++ job 1 <sprocess> done: exit(0)
+17:08:52 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> done (93 sec)
+17:10:08 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+17:10:09 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+17:11:14 Mar 31 2020 +++ job 1 <sprocess> done: exit(0)
+17:11:17 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> done (69 sec)
+17:28:08 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+17:28:08 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+17:29:14 Mar 31 2020 +++ job 1 <sprocess> done: exit(0)
+17:29:16 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> done (68 sec)
+17:33:13 Mar 31 2020 <A_SOI_BCD_Technology_for_Automotive_Application> submitted to the batch system
+17:33:13 Mar 31 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"

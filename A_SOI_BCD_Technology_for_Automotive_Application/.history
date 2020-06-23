@@ -1,0 +1,410 @@
+19:58:48 Jun 06 2020 <Test2_Copy> submitted to the batch system
+19:58:48 Jun 06 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+20:14:20 Jun 06 2020 +++ job 1 <sprocess> done: exit(0)
+20:14:22 Jun 06 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+20:54:01 Jun 06 2020 --- job 2 <sdevice> exited abnormally: exit()
+20:54:02 Jun 06 2020     job 4 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp4_des.cmd"
+20:55:36 Jun 06 2020 +++ job 4 <sdevice> done: exit(0)
+20:55:37 Jun 06 2020     job 5 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp5_des.cmd"
+20:56:21 Jun 06 2020 <Test2_Copy> aborted
+20:56:32 Jun 06 2020 <Test2_Copy> submitted to the batch system
+20:56:33 Jun 06 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+21:56:02 Jun 06 2020 --- job 2 <sdevice> exited abnormally: exit()
+21:56:04 Jun 06 2020 <Test2_Copy> failed
+22:08:43 Jun 06 2020 <Test2_Copy> submitted to the batch system
+22:08:44 Jun 06 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+22:23:35 Jun 06 2020 +++ job 1 <sprocess> done: exit(0)
+22:23:36 Jun 06 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+22:56:29 Jun 06 2020 +++ job 2 <sdevice> done: exit(0)
+22:56:31 Jun 06 2020 <Test2_Copy> done (2868 sec)
+03:23:16 Jun 07 2020 <Test2_Copy> submitted to the batch system
+03:23:17 Jun 07 2020     job 4 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp4_des.cmd"
+03:23:51 Jun 07 2020 +++ job 4 <sdevice> done: exit(0)
+03:23:52 Jun 07 2020     job 5 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp5_des.cmd"
+04:03:50 Jun 07 2020 +++ job 5 <sdevice> done: exit(0)
+04:03:51 Jun 07 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+04:57:32 Jun 07 2020 --- job 6 <sdevice> exited abnormally: exit()
+04:57:33 Jun 07 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+05:34:20 Jun 07 2020 --- job 7 <sdevice> exited abnormally: exit()
+05:34:21 Jun 07 2020     job 8 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp8_des.cmd"
+06:09:35 Jun 07 2020 --- job 8 <sdevice> exited abnormally: exit()
+06:09:36 Jun 07 2020     job 9 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp9_des.cmd"
+06:44:14 Jun 07 2020 --- job 9 <sdevice> exited abnormally: exit()
+06:44:16 Jun 07 2020 <Test2_Copy> failed
+14:13:53 Jun 07 2020 <Test2_Copy> submitted to the batch system
+14:13:54 Jun 07 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+15:22:30 Jun 07 2020 --- job 6 <sdevice> exited abnormally: exit()
+15:22:31 Jun 07 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+16:09:27 Jun 07 2020 --- job 7 <sdevice> exited abnormally: exit()
+16:09:28 Jun 07 2020     job 8 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp8_des.cmd"
+16:57:50 Jun 07 2020 --- job 8 <sdevice> exited abnormally: exit()
+16:57:51 Jun 07 2020     job 9 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp9_des.cmd"
+17:01:38 Jun 07 2020 <Test2_Copy> aborted: aborted
+17:01:49 Jun 07 2020 <Test2_Copy> submitted to the batch system
+17:01:49 Jun 07 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+17:15:45 Jun 07 2020 +++ job 1 <sprocess> done: exit(0)
+17:15:47 Jun 07 2020 <Test2_Copy> done (838 sec)
+17:17:04 Jun 07 2020 <Test2_Copy> submitted to the batch system
+17:17:05 Jun 07 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+17:48:13 Jun 07 2020 +++ job 2 <sdevice> done: exit(0)
+17:48:14 Jun 07 2020     job 4 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp4_des.cmd"
+17:50:50 Jun 07 2020 +++ job 4 <sdevice> done: exit(0)
+17:50:51 Jun 07 2020     job 5 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp5_des.cmd"
+18:17:07 Jun 07 2020 +++ job 5 <sdevice> done: exit(0)
+18:17:08 Jun 07 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+20:21:39 Jun 07 2020 --- job 6 <sdevice> exited abnormally: exit()
+20:21:40 Jun 07 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+21:09:30 Jun 07 2020 --- job 7 <sdevice> exited abnormally: exit()
+21:09:31 Jun 07 2020     job 8 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp8_des.cmd"
+22:34:31 Jun 07 2020 --- job 8 <sdevice> exited abnormally: exit()
+22:34:32 Jun 07 2020     job 9 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp9_des.cmd"
+23:42:33 Jun 07 2020 +++ job 9 <sdevice> done: exit(0)
+23:42:36 Jun 07 2020 <Test2_Copy> failed
+16:11:42 Jun 09 2020 <Test2_Copy> submitted to the batch system
+16:11:43 Jun 09 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+17:20:40 Jun 09 2020 +++ job 6 <sdevice> done: exit(0)
+17:20:41 Jun 09 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+17:46:46 Jun 09 2020 +++ job 7 <sdevice> done: exit(0)
+17:46:47 Jun 09 2020     job 8 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp8_des.cmd"
+18:10:30 Jun 09 2020 +++ job 8 <sdevice> done: exit(0)
+18:10:31 Jun 09 2020     job 9 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp9_des.cmd"
+19:09:47 Jun 09 2020 +++ job 9 <sdevice> done: exit(0)
+19:09:49 Jun 09 2020 <Test2_Copy> done (10687 sec)
+20:41:26 Jun 09 2020 <Test2_Copy> submitted to the batch system
+20:41:28 Jun 09 2020 <Test2_Copy> done (2 sec)
+20:42:41 Jun 09 2020 <Test2_Copy> submitted to the batch system
+20:42:42 Jun 09 2020 <Test2_Copy> done (1 sec)
+20:44:52 Jun 09 2020 <Test2_Copy> submitted to the batch system
+20:44:52 Jun 09 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+20:59:02 Jun 09 2020 +++ job 1 <sprocess> done: exit(0)
+20:59:03 Jun 09 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+21:59:51 Jun 09 2020 +++ job 2 <sdevice> done: exit(0)
+21:59:52 Jun 09 2020     job 4 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp4_des.cmd"
+22:07:59 Jun 09 2020 +++ job 4 <sdevice> done: exit(0)
+22:08:00 Jun 09 2020     job 5 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp5_des.cmd"
+23:26:05 Jun 09 2020 +++ job 5 <sdevice> done: exit(0)
+23:26:06 Jun 09 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+02:59:29 Jun 10 2020 +++ job 6 <sdevice> done: exit(0)
+02:59:30 Jun 10 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+06:04:45 Jun 10 2020 +++ job 7 <sdevice> done: exit(0)
+06:04:46 Jun 10 2020     job 8 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp8_des.cmd"
+08:48:57 Jun 10 2020 +++ job 8 <sdevice> done: exit(0)
+08:48:58 Jun 10 2020     job 9 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp9_des.cmd"
+15:11:33 Jun 10 2020 <Test2_Copy> aborted
+15:49:17 Jun 10 2020 <Test2_Copy> submitted to the batch system
+15:49:18 Jun 10 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:06:21 Jun 10 2020 +++ job 1 <sprocess> done: exit(0)
+16:06:23 Jun 10 2020 <Test2_Copy> done (1026 sec)
+19:53:17 Jun 10 2020 <Test2_Copy> submitted to the batch system
+19:53:18 Jun 10 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+20:10:44 Jun 10 2020 +++ job 1 <sprocess> done: exit(0)
+20:10:46 Jun 10 2020 <Test2_Copy> done (1049 sec)
+20:13:46 Jun 10 2020 <Test2_Copy> submitted to the batch system
+20:13:47 Jun 10 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+21:28:40 Jun 10 2020 +++ job 2 <sdevice> done: exit(0)
+21:28:41 Jun 10 2020     job 4 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp4_des.cmd"
+21:36:09 Jun 10 2020 +++ job 4 <sdevice> done: exit(0)
+21:36:10 Jun 10 2020     job 5 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp5_des.cmd"
+22:37:41 Jun 10 2020 +++ job 5 <sdevice> done: exit(0)
+22:37:42 Jun 10 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+22:40:47 Jun 10 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+22:41:30 Jun 10 2020 <Test2_Copy> done (8864 sec)
+22:44:06 Jun 10 2020 <Test2_Copy> submitted to the batch system
+22:44:07 Jun 10 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+23:00:05 Jun 10 2020 +++ job 1 <sprocess> done: exit(0)
+23:00:07 Jun 10 2020 <Test2_Copy> done (961 sec)
+23:02:27 Jun 10 2020 <Test2_Copy> submitted to the batch system
+23:02:28 Jun 10 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+23:56:33 Jun 10 2020 +++ job 2 <sdevice> done: exit(0)
+23:56:34 Jun 10 2020     job 4 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp4_des.cmd"
+00:04:28 Jun 11 2020 +++ job 4 <sdevice> done: exit(0)
+00:04:29 Jun 11 2020     job 5 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp5_des.cmd"
+01:08:38 Jun 11 2020 +++ job 5 <sdevice> done: exit(0)
+01:08:39 Jun 11 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+03:35:06 Jun 11 2020 +++ job 6 <sdevice> done: exit(0)
+03:35:07 Jun 11 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+08:32:48 Jun 11 2020 +++ job 7 <sdevice> done: exit(0)
+08:32:49 Jun 11 2020     job 8 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp8_des.cmd"
+13:10:55 Jun 11 2020 <Test2_Copy> aborted: aborted
+13:11:30 Jun 11 2020 <Test2_Copy> submitted to the batch system
+13:11:30 Jun 11 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+13:25:42 Jun 11 2020 +++ job 1 <sprocess> done: exit(0)
+13:25:44 Jun 11 2020 <Test2_Copy> done (854 sec)
+13:26:15 Jun 11 2020 <Test2_Copy> submitted to the batch system
+13:26:16 Jun 11 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+15:51:27 Jun 11 2020 +++ job 2 <sdevice> done: exit(0)
+15:51:30 Jun 11 2020 <Test2_Copy> done (8715 sec)
+15:58:01 Jun 11 2020 <Test2_Copy> submitted to the batch system
+15:58:02 Jun 11 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+01:06:06 Jun 12 2020 +++ job 6 <sdevice> done: exit(0)
+01:06:08 Jun 12 2020 <Test2_Copy> done (32887 sec)
+13:10:07 Jun 12 2020 <Test2_Copy> submitted to the batch system
+13:10:08 Jun 12 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+13:24:34 Jun 12 2020 +++ job 1 <sprocess> done: exit(0)
+13:24:35 Jun 12 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+14:50:08 Jun 12 2020 +++ job 2 <sdevice> done: exit(0)
+14:50:09 Jun 12 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+14:57:03 Jun 12 2020 +++ job 6 <sdevice> done: exit(0)
+14:57:06 Jun 12 2020 <Test2_Copy> done (6419 sec)
+14:02:06 Jun 13 2020 <Test2_Copy> submitted to the batch system
+14:02:07 Jun 13 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+14:16:10 Jun 13 2020 +++ job 1 <sprocess> done: exit(0)
+14:16:13 Jun 13 2020 <Test2_Copy> done (847 sec)
+14:17:19 Jun 13 2020 <Test2_Copy> submitted to the batch system
+14:17:20 Jun 13 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+16:52:15 Jun 13 2020 +++ job 2 <sdevice> done: exit(0)
+16:52:17 Jun 13 2020 <Test2_Copy> done (9298 sec)
+16:57:49 Jun 13 2020 <Test2_Copy> submitted to the batch system
+16:57:50 Jun 13 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+22:44:51 Jun 13 2020 +++ job 6 <sdevice> done: exit(0)
+22:44:52 Jun 13 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+11:24:07 Jun 14 2020 <Test2_Copy> aborted: aborted
+11:37:25 Jun 14 2020 <Test2_Copy> submitted to the batch system
+11:37:25 Jun 14 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+11:53:57 Jun 14 2020 +++ job 1 <sprocess> done: exit(0)
+11:54:00 Jun 14 2020 <Test2_Copy> done (995 sec)
+11:59:00 Jun 14 2020 <Test2_Copy> submitted to the batch system
+11:59:01 Jun 14 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+11:59:07 Jun 14 2020 --- job 2 <sdevice> exited abnormally: exit()
+11:59:09 Jun 14 2020 <Test2_Copy> failed
+12:06:40 Jun 14 2020 <Test2_Copy> submitted to the batch system
+12:06:41 Jun 14 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+12:22:59 Jun 14 2020 +++ job 1 <sprocess> done: exit(0)
+12:23:01 Jun 14 2020 <Test2_Copy> done (981 sec)
+12:40:03 Jun 14 2020 <Test2_Copy> submitted to the batch system
+12:40:05 Jun 14 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+13:06:58 Jun 14 2020 +++ job 2 <sdevice> done: exit(0)
+13:07:00 Jun 14 2020 <Test2_Copy> done (1617 sec)
+13:11:28 Jun 14 2020 <Test2_Copy> submitted to the batch system
+13:11:29 Jun 14 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+14:07:46 Jun 14 2020 +++ job 6 <sdevice> done: exit(0)
+14:07:48 Jun 14 2020 <Test2_Copy> done (3380 sec)
+16:56:59 Jun 14 2020 <Test2_Copy> submitted to the batch system
+16:57:00 Jun 14 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+17:53:30 Jun 14 2020 +++ job 6 <sdevice> done: exit(0)
+17:53:31 Jun 14 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+21:15:31 Jun 14 2020 +++ job 7 <sdevice> done: exit(0)
+21:15:34 Jun 14 2020 <Test2_Copy> done (15515 sec)
+14:30:40 Jun 15 2020 <Test2_Copy> submitted to the batch system
+14:30:41 Jun 15 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+14:43:47 Jun 15 2020 +++ job 1 <sprocess> done: exit(0)
+14:43:49 Jun 15 2020 <Test2_Copy> done (789 sec)
+14:47:51 Jun 15 2020 <Test2_Copy> submitted to the batch system
+14:47:52 Jun 15 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+15:22:59 Jun 15 2020 +++ job 2 <sdevice> done: exit(0)
+15:23:02 Jun 15 2020 <Test2_Copy> done (2111 sec)
+15:25:39 Jun 15 2020 <Test2_Copy> submitted to the batch system
+15:25:39 Jun 15 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+15:26:34 Jun 15 2020 <Test2_Copy> done (55 sec)
+15:27:13 Jun 15 2020 <Test2_Copy> submitted to the batch system
+15:27:13 Jun 15 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+15:40:47 Jun 15 2020 +++ job 1 <sprocess> done: exit(0)
+15:40:49 Jun 15 2020 <Test2_Copy> done (816 sec)
+15:42:42 Jun 15 2020 <Test2_Copy> submitted to the batch system
+15:42:43 Jun 15 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+15:56:50 Jun 15 2020 +++ job 1 <sprocess> done: exit(0)
+15:56:52 Jun 15 2020 <Test2_Copy> done (850 sec)
+15:58:09 Jun 15 2020 <Test2_Copy> submitted to the batch system
+15:58:10 Jun 15 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:11:06 Jun 15 2020 +++ job 1 <sprocess> done: exit(0)
+16:11:10 Jun 15 2020 <Test2_Copy> done (781 sec)
+16:12:57 Jun 15 2020 <Test2_Copy> submitted to the batch system
+16:12:58 Jun 15 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+16:49:03 Jun 15 2020 +++ job 2 <sdevice> done: exit(0)
+16:49:05 Jun 15 2020 <Test2_Copy> done (2168 sec)
+15:28:22 Jun 16 2020 <Test2_Copy> submitted to the batch system
+15:28:22 Jun 16 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+15:41:15 Jun 16 2020 +++ job 1 <sprocess> done: exit(0)
+15:41:17 Jun 16 2020 <Test2_Copy> done (775 sec)
+15:42:36 Jun 16 2020 <Test2_Copy> submitted to the batch system
+15:42:37 Jun 16 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+16:13:02 Jun 16 2020 +++ job 2 <sdevice> done: exit(0)
+16:13:05 Jun 16 2020 <Test2_Copy> done (1829 sec)
+16:28:43 Jun 16 2020 <Test2_Copy> submitted to the batch system
+16:28:43 Jun 16 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:42:42 Jun 16 2020 +++ job 1 <sprocess> done: exit(0)
+16:42:44 Jun 16 2020 <Test2_Copy> done (841 sec)
+16:46:31 Jun 16 2020 <Test2_Copy> submitted to the batch system
+16:46:31 Jun 16 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+17:10:19 Jun 16 2020 +++ job 2 <sdevice> done: exit(0)
+17:10:22 Jun 16 2020 <Test2_Copy> done (1431 sec)
+17:16:07 Jun 16 2020 <Test2_Copy> submitted to the batch system
+17:16:08 Jun 16 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+19:52:39 Jun 16 2020 +++ job 7 <sdevice> done: exit(0)
+19:52:41 Jun 16 2020 <Test2_Copy> done (9394 sec)
+20:12:28 Jun 16 2020 <Test2_Copy> submitted to the batch system
+20:12:29 Jun 16 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+20:27:15 Jun 16 2020 +++ job 1 <sprocess> done: exit(0)
+20:27:17 Jun 16 2020 <Test2_Copy> done (889 sec)
+20:28:49 Jun 16 2020 <Test2_Copy> submitted to the batch system
+20:28:50 Jun 16 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+20:45:01 Jun 16 2020 +++ job 2 <sdevice> done: exit(0)
+20:45:04 Jun 16 2020 <Test2_Copy> done (975 sec)
+20:53:49 Jun 16 2020 <Test2_Copy> submitted to the batch system
+20:53:50 Jun 16 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+21:07:13 Jun 16 2020 +++ job 1 <sprocess> done: exit(0)
+21:07:15 Jun 16 2020 <Test2_Copy> done (806 sec)
+21:35:44 Jun 16 2020 <Test2_Copy> submitted to the batch system
+21:35:45 Jun 16 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+21:50:49 Jun 16 2020 +++ job 1 <sprocess> done: exit(0)
+21:50:51 Jun 16 2020 <Test2_Copy> done (907 sec)
+21:56:45 Jun 16 2020 <Test2_Copy> submitted to the batch system
+21:56:45 Jun 16 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+22:10:09 Jun 16 2020 +++ job 2 <sdevice> done: exit(0)
+22:10:11 Jun 16 2020 <Test2_Copy> done (806 sec)
+12:53:59 Jun 17 2020 <Test2_Copy> submitted to the batch system
+12:54:00 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+13:08:49 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+13:08:53 Jun 17 2020 <Test2_Copy> done (894 sec)
+13:12:46 Jun 17 2020 <Test2_Copy> submitted to the batch system
+13:12:46 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+13:26:34 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+13:26:37 Jun 17 2020 <Test2_Copy> done (831 sec)
+13:32:52 Jun 17 2020 <Test2_Copy> submitted to the batch system
+13:32:53 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+13:46:05 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+13:46:07 Jun 17 2020 <Test2_Copy> done (795 sec)
+13:51:33 Jun 17 2020 <Test2_Copy> submitted to the batch system
+13:51:34 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+14:03:49 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+14:03:51 Jun 17 2020 <Test2_Copy> done (738 sec)
+14:05:19 Jun 17 2020 <Test2_Copy> submitted to the batch system
+14:05:20 Jun 17 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+14:19:58 Jun 17 2020 +++ job 2 <sdevice> done: exit(0)
+14:20:01 Jun 17 2020 <Test2_Copy> done (882 sec)
+14:25:58 Jun 17 2020 <Test2_Copy> submitted to the batch system
+14:25:59 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+14:40:28 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+14:40:30 Jun 17 2020 <Test2_Copy> done (872 sec)
+14:46:21 Jun 17 2020 <Test2_Copy> submitted to the batch system
+14:46:22 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+15:00:19 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+15:00:21 Jun 17 2020 <Test2_Copy> done (840 sec)
+15:06:58 Jun 17 2020 <Test2_Copy> submitted to the batch system
+15:06:59 Jun 17 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+15:21:11 Jun 17 2020 +++ job 2 <sdevice> done: exit(0)
+15:21:14 Jun 17 2020 <Test2_Copy> done (856 sec)
+15:32:16 Jun 17 2020 <Test2_Copy> submitted to the batch system
+15:32:17 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+15:45:07 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+15:45:09 Jun 17 2020 <Test2_Copy> done (773 sec)
+15:58:31 Jun 17 2020 <Test2_Copy> submitted to the batch system
+15:58:31 Jun 17 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+16:17:25 Jun 17 2020 +++ job 2 <sdevice> done: exit(0)
+16:17:27 Jun 17 2020 <Test2_Copy> done (1136 sec)
+16:22:08 Jun 17 2020 <Test2_Copy> submitted to the batch system
+16:22:08 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:34:52 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+16:34:54 Jun 17 2020 <Test2_Copy> done (766 sec)
+16:42:46 Jun 17 2020 <Test2_Copy> submitted to the batch system
+16:42:47 Jun 17 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+17:02:02 Jun 17 2020 +++ job 2 <sdevice> done: exit(0)
+17:02:04 Jun 17 2020 <Test2_Copy> done (1158 sec)
+17:08:40 Jun 17 2020 <Test2_Copy> submitted to the batch system
+17:08:41 Jun 17 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+19:10:06 Jun 17 2020 +++ job 7 <sdevice> done: exit(0)
+19:10:09 Jun 17 2020 <Test2_Copy> done (7289 sec)
+19:28:06 Jun 17 2020 <Test2_Copy> submitted to the batch system
+19:28:07 Jun 17 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+19:42:26 Jun 17 2020 +++ job 1 <sprocess> done: exit(0)
+19:42:29 Jun 17 2020 <Test2_Copy> done (863 sec)
+19:51:54 Jun 17 2020 <Test2_Copy> submitted to the batch system
+19:51:55 Jun 17 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+20:14:13 Jun 17 2020 +++ job 2 <sdevice> done: exit(0)
+20:14:16 Jun 17 2020 <Test2_Copy> done (1342 sec)
+20:46:22 Jun 17 2020 <Test2_Copy> submitted to the batch system
+20:46:22 Jun 17 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+21:25:39 Jun 17 2020 +++ job 7 <sdevice> done: exit(0)
+21:25:42 Jun 17 2020 <Test2_Copy> done (2360 sec)
+14:57:55 Jun 18 2020 <Test2_Copy> submitted to the batch system
+14:57:56 Jun 18 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+15:11:59 Jun 18 2020 +++ job 1 <sprocess> done: exit(0)
+15:12:01 Jun 18 2020 <Test2_Copy> done (846 sec)
+15:19:57 Jun 18 2020 <Test2_Copy> submitted to the batch system
+15:19:58 Jun 18 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+15:45:09 Jun 18 2020 +++ job 2 <sdevice> done: exit(0)
+15:45:11 Jun 18 2020 <Test2_Copy> done (1514 sec)
+15:57:21 Jun 18 2020 <Test2_Copy> submitted to the batch system
+15:57:21 Jun 18 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:11:56 Jun 18 2020 +++ job 1 <sprocess> done: exit(0)
+16:11:58 Jun 18 2020 <Test2_Copy> done (877 sec)
+16:18:21 Jun 18 2020 <Test2_Copy> submitted to the batch system
+16:18:22 Jun 18 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+16:32:27 Jun 18 2020 +++ job 1 <sprocess> done: exit(0)
+16:32:31 Jun 18 2020 <Test2_Copy> done (850 sec)
+16:53:25 Jun 18 2020 <Test2_Copy> submitted to the batch system
+16:53:26 Jun 18 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+17:13:49 Jun 18 2020 +++ job 2 <sdevice> done: exit(0)
+17:13:51 Jun 18 2020 <Test2_Copy> done (1226 sec)
+17:28:41 Jun 18 2020 <Test2_Copy> submitted to the batch system
+17:28:42 Jun 18 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+18:03:38 Jun 18 2020 +++ job 6 <sdevice> done: exit(0)
+18:03:39 Jun 18 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+18:32:09 Jun 18 2020 +++ job 7 <sdevice> done: exit(0)
+18:32:11 Jun 18 2020 <Test2_Copy> done (3810 sec)
+20:23:43 Jun 18 2020 <Test2_Copy> submitted to the batch system
+20:23:43 Jun 18 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+20:36:47 Jun 18 2020 +++ job 1 <sprocess> done: exit(0)
+20:36:50 Jun 18 2020 <Test2_Copy> done (787 sec)
+20:54:43 Jun 18 2020 <Test2_Copy> submitted to the batch system
+20:54:44 Jun 18 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+21:32:56 Jun 18 2020 +++ job 2 <sdevice> done: exit(0)
+21:32:57 Jun 18 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+22:00:30 Jun 18 2020 +++ job 6 <sdevice> done: exit(0)
+22:00:31 Jun 18 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+22:45:19 Jun 18 2020 +++ job 7 <sdevice> done: exit(0)
+22:45:22 Jun 18 2020 <Test2_Copy> done (6639 sec)
+20:13:10 Jun 19 2020 <Test2_Copy> submitted to the batch system
+20:13:11 Jun 19 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+20:27:23 Jun 19 2020 +++ job 1 <sprocess> done: exit(0)
+20:27:25 Jun 19 2020 <Test2_Copy> done (855 sec)
+20:28:44 Jun 19 2020 <Test2_Copy> submitted to the batch system
+20:28:45 Jun 19 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+21:19:14 Jun 19 2020 +++ job 2 <sdevice> done: exit(0)
+21:19:17 Jun 19 2020 <Test2_Copy> done (3033 sec)
+22:01:05 Jun 19 2020 <Test2_Copy> submitted to the batch system
+22:01:06 Jun 19 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+22:33:24 Jun 19 2020 <Test2_Copy_Copy> submitted to the batch system
+22:33:24 Jun 19 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+22:48:46 Jun 19 2020 +++ job 1 <sprocess> done: exit(0)
+22:48:49 Jun 19 2020 <Test2_Copy_Copy> done (925 sec)
+22:53:19 Jun 19 2020 <Test2_Copy_Copy> submitted to the batch system
+22:53:19 Jun 19 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+23:08:53 Jun 19 2020 +++ job 1 <sprocess> done: exit(0)
+23:08:55 Jun 19 2020 <Test2_Copy_Copy> done (936 sec)
+23:12:38 Jun 19 2020 <Test2_Copy_Copy> submitted to the batch system
+23:12:39 Jun 19 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+23:27:26 Jun 19 2020 +++ job 1 <sprocess> done: exit(0)
+23:27:28 Jun 19 2020 <Test2_Copy_Copy> done (890 sec)
+23:28:16 Jun 19 2020 <Test2_Copy_Copy> submitted to the batch system
+23:28:17 Jun 19 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+00:37:16 Jun 20 2020 +++ job 2 <sdevice> done: exit(0)
+00:37:18 Jun 20 2020 <Test2_Copy_Copy> done (4142 sec)
+14:15:59 Jun 20 2020 <Test2_Copy_Copy> submitted to the batch system
+14:15:59 Jun 20 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+14:28:35 Jun 20 2020 +++ job 1 <sprocess> done: exit(0)
+14:28:38 Jun 20 2020 <Test2_Copy_Copy> done (759 sec)
+14:29:28 Jun 20 2020 <Test2_Copy_Copy> submitted to the batch system
+14:29:29 Jun 20 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+15:24:00 Jun 20 2020 +++ job 2 <sdevice> done: exit(0)
+15:24:02 Jun 20 2020 <Test2_Copy_Copy> done (3274 sec)
+15:27:17 Jun 20 2020 <Test2_Copy_Copy> submitted to the batch system
+15:27:18 Jun 20 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+17:04:02 Jun 20 2020 +++ job 6 <sdevice> done: exit(0)
+17:04:05 Jun 20 2020 <Test2_Copy_Copy> done (5808 sec)
+13:34:11 Jun 21 2020 <Test2_Copy_Copy> submitted to the batch system
+13:34:12 Jun 21 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess -u n1_fps.cmd"
+13:47:37 Jun 21 2020 +++ job 1 <sprocess> done: exit(0)
+13:47:39 Jun 21 2020 <Test2_Copy_Copy> done (808 sec)
+13:53:03 Jun 21 2020 <Test2_Copy_Copy> submitted to the batch system
+13:53:04 Jun 21 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+15:24:23 Jun 21 2020 +++ job 2 <sdevice> done: exit(0)
+15:24:25 Jun 21 2020 <Test2_Copy_Copy> done (5482 sec)
+15:26:08 Jun 21 2020 <Test2_Copy_Copy> submitted to the batch system
+15:26:09 Jun 21 2020     job 2 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp2_des.cmd"
+16:57:49 Jun 21 2020 +++ job 2 <sdevice> done: exit(0)
+16:57:50 Jun 21 2020     job 6 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp6_des.cmd"
+22:34:03 Jun 21 2020 +++ job 6 <sdevice> done: exit(0)
+22:34:04 Jun 21 2020     job 7 <sdevice> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sdevice pp7_des.cmd"
+01:40:41 Jun 22 2020 +++ job 7 <sdevice> done: exit(0)
+01:40:43 Jun 22 2020 <Test2_Copy_Copy> done (36875 sec)

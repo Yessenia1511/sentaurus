@@ -1,0 +1,55 @@
+
+****************************************************************************
+***                       Sentaurus Workbench gjob                       ***
+***                        Version O-2018.06-SP2                         ***
+***                       (1.1346, x86_64, Linux)                        ***
+***                                                                      ***
+***                Copyright (c) 1994-2018 Synopsys, Inc.                ***
+***                                                                      ***
+***  This software and the associated documentation are confidential     ***
+***  and proprietary to Synopsys, Inc.  Your use or disclosure of this   ***
+***  software is subject to the terms and conditions of a written        ***
+***  license agreement between you, or your company, and Synopsys, Inc.  ***
+****************************************************************************
+
+gjob is running on host 'hogthrob.ewa.e-technik.tu-dortmund.de' by user 'ywellerdick'
+Binary '/opt/synopsys/sentaurus/O_2018.06-SP2/tcad/current/linux64/bin/../lib/gjob0'
+Command line options '-verbose -nice 19 --threads 8 -job 1 -swb_pid 211983 -gsub_pid 229386 -gsub_host hogthrob.ewa.e-technik.tu-dortmund.de -gsub_port 42944 /home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy'
+Current directory '/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy'
+Some relevant environment variables:
+	STROOT=/opt/synopsys/sentaurus/O_2018.06-SP2
+	STRELEASE=current
+	STROOT_LIB=/opt/synopsys/sentaurus/O_2018.06-SP2/tcad/current/lib
+	STDB=/home/ywellerdick/Desktop/TCAD
+	DATEX=/opt/synopsys/sentaurus/O_2018.06-SP2/tcad/current/lib/datexcodes.txt
+	DISPLAY=:50.0
+
+Project '/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy'
+Loading global tool database '/opt/synopsys/sentaurus/O_2018.06-SP2/tcad/current/lib/glib2/tooldb.tcl'
+INITIALIZING PREPROCESSOR:
+Loading project tree '/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/gtree.dat'
+Loading jobs and dependence graph '"/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/gexec.cmd"'
+Loading project variables '/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/gvars.dat'
+--Get files to preprocess...
+--Create file handlers...
+--Read the toolflow...
+--Analyze tool-file dependencies...
+--Read all nodes to preprocess...
+--Group nodes into experiments...
+--Get all variables...
+--Get all parameters...
+PREPROCESSOR SUCCESSFULLY INITIALIZED.
+PREPROCESSING STEP 1:
+Reading file /home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/sprocess_fps.cmd
+PREPROCESSING STEP 2:
+Preprocessing file /home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/sprocess_fps.cmd fornode 1
++++Preprocessing results written to /home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/pp1_fps.cmd
+Start Simulation section
+13:34:12 Jun 21 2020     job 1 <sprocess> started on host 'hogthrob.ewa.e-technik.tu-dortmund.de': "sprocess --threads 8  -u n1_fps.cmd"
+13:47:35 Jun 21 2020 +++ job 1 <sprocess> done: exit(0)
+End Simulation section
+Start Epilogue section
+13:47:35 Jun 21 2020 *** job 1 pre/post execution: eval "  gjob::find_extracted_vars "/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy" n1_fps.out 1; catch {os_cp "/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/n1_mdr.cmd" "/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/n1_msh.cmd"}; catch {os_cp "/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/n1_mdr.bnd" "/home/ywellerdick/Desktop/TCAD/Test2_Copy_Copy/n1_msh.bnd"} "
+End Epilogue section
+Job succeeded
+gjob exits with status 0
